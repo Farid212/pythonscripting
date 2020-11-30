@@ -1,0 +1,26 @@
+{
+  "name": "pythonscripting",
+  "description": "Learn Phyton by adventuring around in the terminal.",
+  "version": "1.0.0",
+  "repository": "https://github.com/Farid212/pythonscripting",
+  "author": "Farid212",
+  "bin": {
+    "pythonscripting": "./bin/pythonscripting"
+  },
+  "main": "index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "colors": "^1.4.0",
+    "diff": "^5.0.0",
+    "path": "^0.12.7",
+    "workshopper-adventure": "^7.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standart": "^6.1.0",
+    "workshopper-adventure-test": "^1.2.0"
+  },
+  "scripts": {
+    "test": "standart && workshopper-adventure-test"
+  }
+}
