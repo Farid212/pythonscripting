@@ -28,4 +28,4 @@ Use `print()` to print the variable **someString** to the terminal.
 
 Check to see if your program is correct by running this command:
 
-`pythonscripting verify strings.js`
+`pythonscripting verify strings.py`
