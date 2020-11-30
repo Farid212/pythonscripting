@@ -2,12 +2,12 @@ const problem = require('./lib/problem')
 
 var psing = require('workshopper-adventure')({
   appDir: __dirname,
-  languages: ['en', 'ja', 'fr'],
+  languages: ['en'],
   header: require('workshopper-adventure/default/header'),
   footer: require('./lib/footer.js')
 })
 
-jsing.addAll(require('./menu.json').map(function (name) {
+psing.addAll(require('./menu.json').map(function (name) {
   return {
     name,
     fn: function () {
