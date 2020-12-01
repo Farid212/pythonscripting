@@ -29,7 +29,7 @@ pizza = {
 
 Use `print()` to print the `pizza` object to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify objects.py

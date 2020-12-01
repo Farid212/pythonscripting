@@ -35,7 +35,7 @@ Then define another variable named `keys` that will be containt all `bike`'s `ke
 
 Use `print()` to print the `keys` variable to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify object-keys.py

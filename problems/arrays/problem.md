@@ -12,7 +12,7 @@ In that file define a variable named `pizzaToppings` that references an array th
 
 Use `print()` to print the `pizzaToppings` array to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify arrays.py

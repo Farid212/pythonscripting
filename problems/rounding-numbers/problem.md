@@ -22,7 +22,7 @@ Define a second variable named `rounded` that references the output of the `roun
 
 Use `print()` to print that number to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify rounding-numbers.py

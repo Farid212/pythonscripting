@@ -24,4 +24,6 @@ Use `print()` to print the **length** of the string to the terminal.
 
 **Check to see if your program is correct by running this command:**
 
-`pythonscripting verify string-length.py`
+```bash
+pythonscripting verify string-length.py
+```

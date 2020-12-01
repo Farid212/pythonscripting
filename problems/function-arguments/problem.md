@@ -27,7 +27,7 @@ Within the `math` function, return the value obtained from multiplying the secon
 
 After that, inside the parentheses of `print()`, call the `math()` function with the number `53` as first argument, the number `61` as second and the number `67` as third argument.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify function-arguments.py

@@ -22,6 +22,8 @@ In that file declare a variable named `example`.
 
 Then use `print()` to print the `example` variable to the console.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
-`pythonscripting verify variables.js`
+```bash
+pythonscripting verify variables.py
+```

@@ -17,7 +17,7 @@ Call the `str()` method on the `n` variable.
 
 Use `print()` to print the results of the `str()` method to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify number-to-string.py

@@ -38,7 +38,7 @@ def evenNumbers (number):
 
 Pay close attention to the syntax used throughout your solution. Use `print()` to print the `filtered` array to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify array-filtering.py

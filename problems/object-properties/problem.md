@@ -24,7 +24,7 @@ class food():
 
 Use `print()` to print the `types` property of the `food` object to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify object-properties.py

@@ -73,7 +73,7 @@ so the output is `42`
 print(x)
 ```
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify scope.py

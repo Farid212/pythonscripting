@@ -24,7 +24,7 @@ Make the `word` variable reference the string value **"python"**.
 Then use `print()` to print "**The word has more than five characters."** if the length of the value of `word` is greater than five.
 Otherwise, print "**The word has five characters or less.**"
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 javascripting verify if-statement.js

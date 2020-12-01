@@ -26,6 +26,8 @@ someString = 'this is a string'
 
 Use `print()` to print the variable **someString** to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
-`pythonscripting verify strings.py`
+```bash
+pythonscripting verify strings.py
+```

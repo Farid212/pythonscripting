@@ -29,6 +29,8 @@ In that file define a variable named `example` that references the integer `1234
 
 Use `print()` to print that number to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
-`pythonscripting verify numbers.py`
+```bash
+pythonscripting verify numbers.py
+```

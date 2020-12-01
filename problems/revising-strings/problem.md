@@ -24,6 +24,8 @@ Use the `.replace()` method to change `alright` to `wonderful`.
 
 Use `print()` to print the results of the `.replace()` method to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
-`pythonscripting verify revising-strings.py`
+```bash
+pythonscripting verify revising-strings.py
+```

@@ -38,7 +38,7 @@ pets[i] = pets[i] + 's'
 
 After the for loop, use `print()` to print the `pets` array to the terminal.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify looping-through-arrays.py

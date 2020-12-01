@@ -30,7 +30,7 @@ return food + ' tasted really good.'
 
 Inside of the parentheses of `print()`, call the `eat()` function with the string `bananas` as the argument.
 
-Check to see if your program is correct by running this command:
+**Check to see if your program is correct by running this command:**
 
 ```bash
 pythonscripting verify functions.js
