@@ -2287,6 +2287,26 @@ word-wrap@~1.2.3:
   resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
   integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
 
+workshopper-adventure-adapted@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/workshopper-adventure-adapted/-/workshopper-adventure-adapted-1.0.0.tgz#4f7ec9ed093394258ec63b5e9f9cfed15b3854ea"
+  integrity sha512-PrFP3aPVHi9HM1rSU7jIVJ7NF7AjjmKuLoa4U8CXTwoKDtD8PRhbLa3V7B4t2ynGRVQTmqUn+TNCo2Ex9Psq2w==
+  dependencies:
+    after "^0.8.2"
+    chalk "^3.0.0"
+    colors-tmpl "~1.0.0"
+    combined-stream-wait-for-it "^1.1.0"
+    commandico "^2.0.4"
+    i18n-core "^3.0.0"
+    latest-version "^5.1.0"
+    msee "^0.3.5"
+    simple-terminal-menu "^2.0.0"
+    split "^1.0.0"
+    string-to-stream "^3.0.1"
+    strip-ansi "^6.0.0"
+    through2 "^3.0.1"
+    workshopper-adventure-storage "^3.0.0"
+
 workshopper-adventure-storage@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/workshopper-adventure-storage/-/workshopper-adventure-storage-3.0.1.tgz#b85a0d1e51a7ee80d14c8eb4e3b081d716de8e98"
@@ -2319,26 +2339,6 @@ workshopper-adventure@^6.1.0:
     latest-version "^5.1.0"
     msee "^0.3.5"
     simple-terminal-menu "^1.1.3"
-    split "^1.0.0"
-    string-to-stream "^3.0.1"
-    strip-ansi "^6.0.0"
-    through2 "^3.0.1"
-    workshopper-adventure-storage "^3.0.0"
-
-workshopper-adventure@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/workshopper-adventure/-/workshopper-adventure-7.0.0.tgz#5ee0df44df526372ad87a8e1ea488331d2da1631"
-  integrity sha512-G1NuuxtT+AMg+ybxvhhv9J67NRsLLCy3erM3m4fErOS+MdcwrqKejrlAz8K7T/Q/SYxR/gMNZFX+xV01Ejxskg==
-  dependencies:
-    after "^0.8.2"
-    chalk "^3.0.0"
-    colors-tmpl "~1.0.0"
-    combined-stream-wait-for-it "^1.1.0"
-    commandico "^2.0.4"
-    i18n-core "^3.0.0"
-    latest-version "^5.1.0"
-    msee "^0.3.5"
-    simple-terminal-menu "^2.0.0"
     split "^1.0.0"
     string-to-stream "^3.0.1"
     strip-ansi "^6.0.0"
