@@ -1,9 +1,9 @@
 const problem = require('./lib/problem')
 
-var psing = require('workshopper-adventure')({
+var psing = require('workshopper-adventure-adapted')({
   appDir: __dirname,
   languages: ['en'],
-  header: require('workshopper-adventure/default/header'),
+  header: require('workshopper-adventure-adapted/default/header'),
   footer: require('./lib/footer.js')
 })
 
