@@ -1,9 +1,7 @@
-class Pizza():
-    def __init__(self, toppings, crust, serves):
-       self.toppings = toppings
-       self.crust = crust
-       self.serves = serves
+pizza = {
+    'toppings': ['cheese', 'sauce', 'pepperoni'],
+    'crust': 'deep dish',
+    'serves': 2
+}
 
-pizza =  Pizza(['cheese', 'sauce', 'pepperoni'], 'deep dish', 2)
-
-print(pizza.__dict__)
+print(pizza)
