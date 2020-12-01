@@ -39,15 +39,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/faridh212" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
-<p align="center">
-  <a href="https://www.paypal.com/donate?hosted_button_id=BNFSYG56PUXYJ" target="_blank">
-    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="paypalDonation" height="70" width="180" />
-    </a>
-</P>
-
 inspired by [JavaScripting](https://github.com/workshopper/javascripting)
 
 ## 📝 License
