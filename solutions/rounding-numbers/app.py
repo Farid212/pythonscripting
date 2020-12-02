@@ -1,3 +1,3 @@
-rounded = 1.5
-roundUp = round(rounded)
-print(roundUp)
+roundUp = 1.5
+rounded = round(roundUp)
+print(rounded)
