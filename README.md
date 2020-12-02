@@ -33,7 +33,7 @@ pythonscripting
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Farid212/pythonscripting/issues). You can also take a look at the [contributing guide](na).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Farid212/pythonscripting/issues). You can also take a look at the [contributing guide](https://github.com/farid212/pythonscripting/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
